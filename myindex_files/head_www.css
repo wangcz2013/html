@@ -1,0 +1,65 @@
+#globalHeader,#globalHeader .site-logo,#globalHeader .nav-bar li,#globalHeader .nav-bar .l,#globalHeader .nav-bar .r,#globalHeader .nav-bar em:hover a,#globalHeader .nav-bar .mycurrent a{background-image:url(//img00.zhaopin.cn/new2011/head/images/spri.gif);}
+#globalHeader{height:63px;background-position:0 -111px;background-repeat:repeat-x;font-family:simsun;}
+#globalHeader .hd-wrapper{width:990px;margin:0 auto;position:relative;}
+#globalHeader .site-logo,#globalHeader .mobile-page,#globalHeader .hotline,#globalHeader .choosecity,#globalHeader .companyregin{position:absolute;color:#155fc9;font-size:12px;text-decoration:none;line-height:25px;top:5px;}
+#globalHeader .mobile-page,#globalHeader #person-service,#globalHeader .hotline,#globalHeader .choosecity,#globalHeader .regin,#globalHeader .companyregin{background:url(//img01.zhaopin.cn/new2011/head/images/headerbg0719.png) left center no-repeat;padding-left:10px;}
+#globalHeader .site-logo{width:175px;height:56px;top:0;left:30px;}
+#globalHeader .companyregin{right:290px;color:#e56100;font-weight:bold;}
+.companyregin-btn{ display:inline-block;position:absolute;right:290px;top:8px; background:url(//img02.zhaopin.cn/2012/img/index/companyregin-btn.png) no-repeat; width:67px; height:20px; text-indent:-99em;}
+.companyregin-btn:hover{ background-position:left -21px;}
+#globalHeader .hotline{right:156px;color:#848484;background:none;padding:0;}
+#globalHeader .choosecity{right:87px;}
+#globalHeader .mobile-page{right:20px}
+#globalHeader .nav-bar{position:absolute;right:0;top:37px;font-size:14px;}
+#globalHeader .nav-bar li{float:left;height:26px;background-position:154px -177px;overflow:hidden;width:87px;}
+#globalHeader .nav-bar li.minwidth{width:60px;}
+#globalHeader .nav-bar em{display:block;margin-top:2px;}
+#globalHeader .nav-bar em a,#globalHeader .nav-bar em span{float:left;height:25px;}
+#globalHeader .nav-bar .nav-first{background-position:0 -175px;width:3px;}
+#globalHeader .nav-bar .nav-last{background-position:-155px -175px;width:3px;}
+#globalHeader .nav-bar a{padding:0 10px;color:white;text-decoration:none;line-height:23px;font-weight:bold; font-size:14px;}
+#globalHeader .nav-bar a:hover{color:#d7e6fc;}
+#globalHeader .nav-bar .l,#globalHeader .nav-bar .r{width:3px;background-position:154px -179px;}
+#globalHeader .nav-bar .mycurrent a,#globalHeader .nav-bar .mycurrent a:hover,#globalHeader .nav-bar .mycurrent em:hover a{background-position:-4px -203px;color:#06c;}
+#globalHeader .nav-bar .mycurrent .l,#globalHeader .nav-bar .mycurrent em:hover .l{background-position:0 -203px;}
+#globalHeader .nav-bar .mycurrent .r,#globalHeader .nav-bar .mycurrent em:hover .r{background-position:-155px -203px;}
+#globalHeader .nav-bar em:hover .l{background-position:0px -306px;}
+#globalHeader .nav-bar em:hover .r{background-position:-155px -306px;}
+#globalHeader .nav-bar em:hover a{background-position:-4px -306px;}
+#globalHeader a.citymap{background:url(//img03.zhaopin.cn/new2011/head/images/gnav960.gif) no-repeat;width:75px;height:20px;display:block;margin:4px 5px 0 5px;text-indent:-999em;padding:0;overflow:hidden;}
+#globalHeader .citymap:hover{background-position:0 -21px;}
+#globalHeader .hotpng {position: absolute;left:312px;top:0;z-index:100}
+#globalHeader .hotpng01 {position: absolute;/*left:479px;*/left: 746px;top:0;z-index:100}
+#globalHeader .nav-bar .blankwhite{width:11px}
+#globalHeader #subNav{background-color: #FFFFFF;/*left:578px;*/left:492px;}
+#globalHeader #subNav li{background: none repeat scroll 0 center transparent; float: none;height: 25px;line-height: 25px;}
+#globalHeader #subNav li a{color:#315AAA}
+#globalHeader #subNav li:hover{background-color: #E8F3F7;}
+#globalHeader #subNav .arrowD{left: 88px;position: relative;top: -15px;}
+/**新增样式**/
+.sPopupDiv .sPopupTitle250{width:240px; float:left; display:inline; height:32px;background: url("//img02.zhaopin.cn/2012/img/index/se.png") no-repeat scroll 0 -135px #FFF;line-height:32px; margin-bottom:-2px!important;}
+.sPopupDiv .sPopupTitle250 h1{float: left;font-size: 12px;font-weight: bold;color: #2f59ab;margin-left: 10px;_margin-left: 5px;font-family: tahoma;}
+.seledCity{padding:5px 5px 0px 5px;color:#999; height:auto!important;height:22px; min-height:22px; line-height:22px;line-height:25px\0;*line-height:25px;_line-height:25px;}
+.seledCityItem{background-color:#84c6f2;color:#fff;padding:0px 5px; margin-bottom:5px; line-height:16px;padding-bottom:1px;*padding-bottom:2px;margin-right:6px;padding-right:0px;display:inline-block;}
+.seledCityItem a,.seledCityItem a:hover,.seledCityItem a:active{text-decoration:none;color:#fff;font-size:16px;margin-left:3px;width:11px;height:18px;padding:0px 6px;padding-bottom:2px;background:url("//img02.zhaopin.cn/2012/img/searchjob/closeseledCity.gif") 5px 5px no-repeat;}
+.seledCityItem a:hover,.seledCityItem a:active{text-decoration:none;background-color:#00a5e8;}
+.sPopupDiv input,.sPopupDivSub input,.sPopupDivSubJobname input {margin-right:3px;*margin-right:0;vertical-align:middle}
+.sPopupDiv .mOutItem,.sPopupDivSubJobname .mOutItem {background-color:transparent;}
+.sPopupDiv .mOverItem,.sPopupDivSubJobname .mOverItem {background-color:#d2ecfe;}
+.sPopupDivSubCity{background:url("//img02.zhaopin.cn/2012/img/searchjob/subpopupdivbg_l.gif") top right no-repeat #f3faff;background-position-y:-1px!important;border-bottom:2px solid #bdd6e6;padding-top:2px!important;}
+.sPopupDivSubCity span{display:block;float:left;min-width:107px;height:21px;line-height:21px;overflow:hidden;margin-right:5px;_zoom:1;_margin-top:-6px;}
+.sPopupDivSubCity label.noselItem{color:#336699;margin:0;   padding:0;_zoom:1;  width:100%;}
+.paddingBlock:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.sPopupTitle250 .focusItemTop {height:15px; overflow:hidden;height:16px;  overflow:hidden;}
+.sPopupTitle250 .blurItem {overflow: hidden; height:16px;}
+.sPopupTabC{table-layout:fixed;word-wrap:break-word;}
+.sPopupDiv .sPopupTabC td {padding: 3px!important;}
+.sPopupTabC .blurItem{border:#fff 2px solid !important;}
+.sPopupDiv .focusItemTop {background-color: #f3faff!important; }
+.sPopupDivSubJobname label.seledItem{color:#999 !important;}
+.sPopupDiv .sPopupTitle_down250 {width: 200px;height: 32px;line-height: 28px;background:#fff;margin-top: -1px;float: left;}
+.sPopupDiv .sPopupTitle_down250 h1{float: left;font-size: 12px;font-weight: bold;color: #2f59ab;margin-left: 10px;_margin-left: 5px;font-family: tahoma;}
+/**新增样式结束**/
+/*新增new图片*/
+#globalHeader .newspng{ position:absolute; top:0px; left:398px;}
+#globalHeader .backnone{ background:none;}
